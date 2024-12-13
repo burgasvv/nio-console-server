@@ -4,7 +4,7 @@ import org.burgas.nioconsoleserver.client.Client;
 
 import java.util.Scanner;
 
-public class ClientFirst {
+public class ClientConnection {
 
     public static void main(String[] args)  {
 
